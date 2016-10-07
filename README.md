@@ -12,6 +12,8 @@ session without I/O usage in PSR-7 based applications.
 
 Proudly brought to you by [ocramius](https://github.com/Ocramius), [malukenho](https://github.com/malukenho) and [lcobucci](https://github.com/lcobucci).
 
+Just playing around
+
 ### Installation
 
 ```sh
